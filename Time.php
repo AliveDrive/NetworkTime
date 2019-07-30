@@ -4,3 +4,4 @@
  list($ddd,$ttt) = explode(' ',$currenttime);
  echo "$ddd/$ttt\n";
 ?
+>
